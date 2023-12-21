@@ -20,7 +20,7 @@ theme_default = "system" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action3w
-contact_form_action = "https://airform.io/reinerialberto@gmail.com" # contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_action = "https://forms.un-static.com/forms/d40bbeeee54a6d0fbc5d346170a75a0e67e5a063" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
