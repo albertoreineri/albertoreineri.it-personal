@@ -14,10 +14,10 @@
         </p>
         {{ with .button }}
         {{ if .enable }}
-        <a class="btn btn-primary" href="{{ .link | absURL }}">
+        <button class="btn btn-primary" onclick="window.scrollTo({ top: document.getElementById('scopri').offsetTop - 70, behavior: 'smooth'});">
           {{ .label }}
           <i class="fa fa-arrow-right pl-2"></i>
-        </a>
+        </button>
         {{ end }}
         {{ end }}
       </div>
