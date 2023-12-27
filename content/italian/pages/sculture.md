@@ -24,10 +24,8 @@ La bellezza del legno intagliato prende vita attraverso le tue idee e ispirazion
 - Inviami una foto o un'immagine del soggetto o dell'idea che vorresti vedere trasformata in una scultura di legno unica.
 - Fammi una proposta economica per il progetto. Sarai libero di scegliere un importo che più rifletta il valore che attribuisci all'opera.
 
-#### Perché questo approccio?
-
-Inviami la  proposta via email a [reinerialberto@gmail.com](mailto:reinerialberto@gmail.com).
-Sarà un piacere discutere con te i dettagli e confermare la fattibilità del progetto oppure scrivimi su [Instagram](https://www.instagram.com/albyrei/?hl=it).
+Inviami la  proposta via email a [reinerialberto@gmail.com](mailto:reinerialberto@gmail.com) oppure scrivimi su [Instagram](https://www.instagram.com/albyrei/?hl=it).
+Sarà un piacere discutere con te i dettagli e confermare la fattibilità del progetto.
 Una volta accettata la proposta, mi impegnerò a trasformare la tua visione in una scultura di legno unica.
 
 {{< image src="images/legno.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
