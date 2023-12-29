@@ -3,8 +3,8 @@
 banner:
   title: "Ciao, benvenuto sul mio sito!"
   content: "Mi chiamo Alberto, lavoro come Sviluppatore Web e amo la natura e la montagna. <br>
-  Per lavoro gestisco un'attività che <a href='https://reineristudio.com' target='_blank' title='Reineri Studio'>aiuto piccole e medie imprese</a> a creare una solida presenza online.<br>
-  Nel tempo libero amo <a href='/blog' title='Blog'>scrivere</a>, suonare, curare i miei boschi e <a href='/sculture' title='Sculture'>intagliare il legno</a>.
+  Per lavoro gestisco un'attività che <a href='https://reineristudio.com' target='_blank' title='Reineri Studio'>aiuto piccole e medie imprese</a> a creare una solida presenza online e <a href='https://albertoreineri.github.io' title='Alberto Reineri Freelance' target='_blank'>collaboro con Web Agency e Software House come Freelance</a>.<br>
+  Nel tempo libero amo <a href='/blog' title='Blog'>scrivere</a>, <a href='/musica' title='Musica'>suonare</a>, curare i miei boschi e <a href='/sculture' title='Sculture'>intagliare il legno</a>.
   <br>
   In questo spazio digitale convergono tutte le mie passioni, un raccolto virtuale delle sfumature che compongono la mia vita creativa e personale.
   "
@@ -16,6 +16,23 @@ banner:
 
 # Features
 features:
+  - title: "Programmazione"
+    image: "/images/coding.jpg"
+    content: "La programmazione accompagna la mia vita da quasi un ventennio.
+    <br>
+    Ho iniziato a <b>programmare da ragazzino</b> e mi sono subito appassionato al mondo del software. Nel tempo ho imparato svariati linguaggi e ho avuto l'opportunità di <b>lavorare in diverse situazioni professionali</b>. Sono stato un lavoratore dipendente per molti anni, ho insegnato cinque anni nella scuola e infine ho deciso di tentare la via della <b>Libera Professione</b>.
+    <br>
+    Ad oggi collaboro con importanti realtà nel panorama italiano, soprattutto in ambito redazionale, e aiuto piccole e medie imprese a gestire al meglio la propria presenza online.
+    <br>
+    Ma oltre ad un lavoro la programmazione per me resta sempre <b>una grande passione</b>, e si sa che fare una cosa per lavoro o per passione fa una grande differenza!
+  <b>  Scrivo codice anche nel tempo libero</b> e sono vicino al mondo dell'<b>Open Source</b>. Sul mio profilo [GitHub](https://github.com/albertoreineri) rilascio qualche script e software aperto a tutti e a breve dovrebbe essere disponibile anche un mio plugin nella repository ufficiale di WordPress.
+    Nel corso del 2024 dovrei riuscire anche a rilasciare la mia personale App per le Note, scritta in Laravel e jQuery.
+"
+    button:
+      enable: true
+      label: "Scopri di più"
+      link: "https://reineristudio.com"
+
   - title: "Sculture in legno"
     image: "/images/sculture.png"
     content: "Realizzo <b>sculture in legno</b> intagliate a mano.
@@ -32,7 +49,7 @@ features:
       label: "Vedi le Sculture"
       link: "/sculture"
 
-  - title: "Ascolta la mia musica"
+  - title: "Musica"
     image: "/images/chitarra.jpg"
     content: "La più grande passione della mia vita è sempre stata <b>la musica</b>.
     <br>

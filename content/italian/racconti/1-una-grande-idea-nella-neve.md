@@ -1,5 +1,5 @@
 ---
-title: "Una grande idea nella neve"
+title: "1. Una grande idea nella neve"
 meta_title: "Una grande idea nella neve - Racconto di Alberto Reineri"
 description: "Racconto ambientato ad inizio 900 in montanga. Tratto da una storia vera raccontatami da mio nonno. Un bimbo va a scuola in montagna d'inverno nella neve"
 date: 2023-12-20T05:00:00Z

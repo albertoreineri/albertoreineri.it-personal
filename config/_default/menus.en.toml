@@ -12,19 +12,40 @@ url = "chi-sono/"
 weight = 2
 
 [[main]]
-name = "Web Design"
-url = "https://reineristudio.com"
+name = "Arte"
+weight = 4
+hasChildren = true
+[[main]]
+parent = "Arte"
+name = "Sculture"
+url = "sculture/"
+weight = 1
+[[main]]
+parent = "Arte"
+name = "Musica"
+url = "musica/"
+weight = 2
+[[main]]
+parent = "Arte"
+name = "Racconti"
+url = "racconti/"
 weight = 3
 
 [[main]]
-name = "Sculture"
-url = "sculture/"
-weight = 4
-
+name = "Programmazione"
+weight = 3
+hasChildren = true
 [[main]]
-name = "Musica"
-url = "musica/"
-weight = 5
+parent = "Programmazione"
+name = "Servizi Web"
+url = "https://reineristudio.com"
+weight = 1
+[[main]]
+parent = "Programmazione"
+name = "Freelance"
+url = "https://albertoreineri.github.io"
+weight = 2
+
 
 [[main]]
 name = "Blog"
