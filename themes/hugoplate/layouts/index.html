@@ -81,19 +81,30 @@
     <div class="row">
       <div class="md:col-10 lg:col-8 xl:col-6 mx-auto mb-12 text-center">
         <h2 class="mb-4">
-          Blog
+          Racconti
         </h2>
         <p>
-          Dalla mia casetta in montagna talvolta trovo ispirazione per condividere riflessioni sulla vita, abbracciando
+          {{/*  Dalla mia casetta in montagna talvolta trovo ispirazione per condividere riflessioni sulla vita, abbracciando
           la bellezza
           della solitudine positiva e riflettendo sulla vita contemporanea. Attraverso articoli e pensieri, cerco di
           catturare l'essenza di una vita in armonia con la natura, offrendo uno sguardo autentico sulle sfide e le
-          gioie di abbracciare un ritmo più tranquillo e significativo nella frenesia moderna.
+          gioie di abbracciare un ritmo più tranquillo e significativo nella frenesia moderna.  */}}
+          Ci sono giorni in cui l'ispirazione fluisce in modo particolare e mi ritrovo pervaso da serenità e
+          calma profonde. In quei momenti mi dedico alla scrittura. La mia penna danza soprattutto tra le vette
+          montane, ma non solo. In questa sezione, ho riunito alcuni racconti, spesso intrecciati con le storie
+           che i miei nonni amavano raccontarmi quand'ero bambino. Questa pratica diventa un modo affettuoso di
+            preservare la memoria di loro, un tesoro che custodisco con amore nel mio cuore.
+
+
+
+
+
+
         </p>
       </div>
       <div class="col-12">
         <div class="row">
-          {{ range first 3 ( where .Site.RegularPages "Type" "blog" ) }}
+          {{ range first 3 ( where .Site.RegularPages "Type" "racconti" ) }}
           <div class="md:col-4 lg:col-4 mb-14">
             {{ partial "components/blog-card" . }}
           </div>

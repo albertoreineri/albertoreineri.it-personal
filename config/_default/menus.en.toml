@@ -46,12 +46,6 @@ name = "Freelance"
 url = "https://albertoreineri.github.io"
 weight = 2
 
-
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 6
-
 [[main]]
 name = "Contatti"
 url = "contatti/"
@@ -64,22 +58,27 @@ url = "chi-sono/"
 weight = 1
 
 [[footer]]
+name = "Web Design"
+url = "https://reineristudio.com/"
+weight = 2
+
+[[footer]]
 name = "Sculture"
 url = "sculture/"
-weight = 2
+weight = 3
 
 [[footer]]
 name = "Musica"
 url = "musica/"
-weight = 3
+weight = 4
 
 [[footer]]
-name = "Blog"
-url = "blog/"
-weight = 4
+name = "Racconti"
+url = "racconti/"
+weight = 5
 
 [[footer]]
 name = "Contatti"
 url = "contatti/"
-weight = 5
+weight = 6
 
