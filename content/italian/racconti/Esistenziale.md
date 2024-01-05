@@ -7,7 +7,7 @@ categories: ["Racconti"]
 image: "/images/naia.jpg"
 author: "Alberto Reineri"
 tags: [""]
-draft: false
+draft: true
 ---
 
 # Esistenziale
