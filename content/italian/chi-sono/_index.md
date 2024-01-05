@@ -1,7 +1,7 @@
 ---
 title: "Ciao, sono Alberto!"
 meta_title: "Chi Sono"
-description: "this is meta description"
+description: "Pagina personale di Alberto Reineri"
 image: "/images/io.webp"
 draft: false
 ---

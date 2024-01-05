@@ -32,18 +32,18 @@ url = "racconti/"
 weight = 3
 
 [[main]]
-name = "Programmazione"
+name = "Web"
 weight = 3
 hasChildren = true
 [[main]]
-parent = "Programmazione"
-name = "Servizi Web"
+parent = "Web"
+name = "Servizi Web (per Aziende)"
 url = "https://reineristudio.com"
 weight = 1
 [[main]]
-parent = "Programmazione"
-name = "Freelance"
-url = "https://albertoreineri.github.io"
+parent = "Web"
+name = "Freelance (per Software House)"
+url = "/freelance"
 weight = 2
 
 [[main]]
